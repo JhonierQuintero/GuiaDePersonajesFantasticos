@@ -13,4 +13,12 @@ Nyra no recuerda su origen, solo que despertó en las Ruinas de Velumbra, un lug
 - *Paso Sombrío*: Se funde con las sombras para teletransportarse distancias cortas o volverse invisible.
 - *Susurros Engañosos*: Proyecta ilusiones auditivas para confundir o manipular a otros.
 
+## Ilustración
+
+<p align="center">
+  <img width="300" src="https://i.postimg.cc/x81350hW/nyra.jpg">
+</p>
+
+
+Nyra tiene una forma base humanoide, delgada, con piel gris oscura que parece absorber la luz. Sus ojos son completamente negros, con reflejos plateados. Su cabello es una masa de sombras que fluye como humo. Lleva ropajes ajustados, negros y grises, con detalles que cambian sutilmente, como si su ropa también fuera parte de su transformación. En su muñeca brilla una gema oscura que parece latir. Cuando cambia de forma, su silueta se distorsiona con un aura de sombra.
 
