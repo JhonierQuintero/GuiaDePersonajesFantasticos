@@ -16,7 +16,7 @@ Elríon nació bajo el cometa de Zorya, un evento que los elfos estelares consid
 ## Ilustración
 
 <p align="center">
-  <img width="300" src="https://imgur.com/1dYFZVp">
+  <img width="300" src="https://i.imgur.com/1dYFZVp">
 </p>
 
 
