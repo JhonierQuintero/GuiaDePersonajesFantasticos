@@ -13,3 +13,12 @@ Grok creció en las Tierras Quebradas, un páramo donde los ogros libran guerras
 - *Cristales Vivientes*: Puede hacer crecer cristales mágicos del suelo para protegerse o atacar.
 - *Intuición Mística*: Detecta fuentes de magia cercanas, incluso si están ocultas.
 
+## Ilustración
+
+<p align="center">
+  <img width="300" src="https://i.postimg.cc/WbpHYV0p/grok.jpg">
+</p>
+
+
+Grok es un ogro imponente, de casi tres metros, con piel grisácea cubierta de tatuajes arcanos que brillan en tonos púrpura. Sus ojos son pequeños pero destellan con inteligencia. Lleva una armadura improvisada de placas metálicas y cristales incrustados, y un garrote enorme con un núcleo cristalino que emite pulsos de luz. Su rostro tiene cicatrices de batalla, pero su expresión es más reflexiva que feroz. En su espalda cuelga un saco lleno de fragmentos de cristales mágicos.
+
