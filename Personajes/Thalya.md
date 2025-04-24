@@ -22,3 +22,9 @@ Thalya emergió del Gran Roble de Torvyn tras una tormenta que devastó el Bosqu
 
 Thalya tiene una figura etérea, con piel como corteza grisácea recorrida por venas azuladas que brillan como relámpagos. Su cabello es una cascada de hojas verdes entrelazadas con chispas. Lleva un vestido hecho de nubes y musgo, que parece moverse con el viento. Sus ojos son tormentosos, con pupilas que destellan como rayos. En su mano derecha sostiene un bastón torcido que canaliza su energía, y en la izquierda, una esfera de luz eléctrica flota constantemente.
 
+## Detalles Adicionales
+
+- *Motivación*: Controlar su poder para proteger en lugar de destruir.
+- *Relación*: Ve a Grok como un aliado improbable, admirando su fuerza bruta pero cuestionando su impulsividad.
+- *Curiosidad*: Las tormentas se intensifican cuando Thalya está emocionalmente alterada.
+- *Debilidad*: Necesita estar cerca de la naturaleza para recargar su energía; las ciudades la debilitan.
