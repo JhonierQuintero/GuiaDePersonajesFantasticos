@@ -22,3 +22,9 @@ Nyra no recuerda su origen, solo que despertó en las Ruinas de Velumbra, un lug
 
 Nyra tiene una forma base humanoide, delgada, con piel gris oscura que parece absorber la luz. Sus ojos son completamente negros, con reflejos plateados. Su cabello es una masa de sombras que fluye como humo. Lleva ropajes ajustados, negros y grises, con detalles que cambian sutilmente, como si su ropa también fuera parte de su transformación. En su muñeca brilla una gema oscura que parece latir. Cuando cambia de forma, su silueta se distorsiona con un aura de sombra.
 
+## Detalles Adicionales
+
+- *Motivación*: Descubrir su origen y liberarse de las cadenas de su pasado.
+- *Relación*: Choca con Elríon por su enfoque rígido, pero secretamente admira su determinación.
+- *Curiosidad*: Nyra tiene pesadillas recurrentes sobre una figura encapuchada que la llama "hermana".
+- *Debilidad*: La luz intensa limita su capacidad de cambiar de forma o usar sombras.
