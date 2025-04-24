@@ -15,6 +15,11 @@ Elríon nació bajo el cometa de Zorya, un evento que los elfos estelares consid
 
 ## Ilustración
 
+<p align="center">
+  <img width="200" src="https://imgur.com/a/1dYFZVp">
+</p>
+
+
 Elríon es un elfo alto y esbelto, con piel pálida que brilla tenuemente bajo la luz de la luna. Sus ojos son como nebulosas, con tonos de azul y violeta. Lleva una armadura ligera de escamas plateadas que reflejan las constelaciones, y una capa tejida con hilos que parecen estrellas titilantes. Su cabello largo y plateado flota ligeramente, como si estuviera en un campo gravitacional propio. Porta una espada curva grabada con runas estelares y un colgante en forma de cometa.
 
 ## Detalles Adicionales
