@@ -17,3 +17,9 @@ Elríon nació bajo el cometa de Zorya, un evento que los elfos estelares consid
 
 Elríon es un elfo alto y esbelto, con piel pálida que brilla tenuemente bajo la luz de la luna. Sus ojos son como nebulosas, con tonos de azul y violeta. Lleva una armadura ligera de escamas plateadas que reflejan las constelaciones, y una capa tejida con hilos que parecen estrellas titilantes. Su cabello largo y plateado flota ligeramente, como si estuviera en un campo gravitacional propio. Porta una espada curva grabada con runas estelares y un colgante en forma de cometa.
 
+## Detalles Adicionales
+
+- *Motivación*: Busca redimir su fracaso al no proteger el portal de su mentor.
+- *Relación*: Tiene una conexión tensa pero respetuosa con Nyra, cuya magia caótica contrasta con su orden estelar.
+- *Curiosidad*: Elríon escribe poemas sobre las estrellas en un diario que lleva siglos completando.
+- *Debilidad*: La oscuridad absoluta (sin luz estelar) debilita sus poderes.
